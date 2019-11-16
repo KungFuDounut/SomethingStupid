@@ -1,13 +1,14 @@
 --DROP THE DATABASE IF IT EXISTS
+USE master
 DECLARE @dbname nvarchar(50)
-SET @dbname = N'SomethingStupid'
+SET @dbname = 'SomethingStupid'
 IF (EXISTS (SELECT name FROM master.dbo.sysdatabases WHERE ('[' + name + ']' = @dbname OR name = @dbname)))
 BEGIN
     DROP DATABASE SomethingStupid
 END
 --CREATE A NEW DATABASE
 CREATE DATABASE SomethingStupid;
-USING SomethingStupid
+USE SomethingStupid
 --CREATE THE ONLY TABLE NEEDED
 CREATE TABLE orgUser(
     UserId INT IDENTITY(1,1) NOT NULL
