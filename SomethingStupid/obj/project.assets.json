@@ -8124,20 +8124,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tyron\\.nuget\\packages\\": {}
+    "C:\\Users\\Renier\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Projects\\SomethingStupid\\SomethingStupid\\SomethingStupid.csproj",
+      "projectUniqueName": "F:\\Programming\\Projects\\SomethingStupid\\SomethingStupid\\SomethingStupid\\SomethingStupid.csproj",
       "projectName": "SomethingStupid",
-      "projectPath": "G:\\Projects\\SomethingStupid\\SomethingStupid\\SomethingStupid.csproj",
-      "packagesPath": "C:\\Users\\tyron\\.nuget\\packages\\",
-      "outputPath": "G:\\Projects\\SomethingStupid\\SomethingStupid\\obj\\",
+      "projectPath": "F:\\Programming\\Projects\\SomethingStupid\\SomethingStupid\\SomethingStupid\\SomethingStupid.csproj",
+      "packagesPath": "C:\\Users\\Renier\\.nuget\\packages\\",
+      "outputPath": "F:\\Programming\\Projects\\SomethingStupid\\SomethingStupid\\SomethingStupid\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\tyron\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Renier\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"

@@ -1,0 +1,5 @@
+F:\Programming\Projects\SomethingStupid\SomethingStupid\DataAccess\bin\Debug\netcoreapp3.0\DataAccess.deps.json
+F:\Programming\Projects\SomethingStupid\SomethingStupid\DataAccess\bin\Debug\netcoreapp3.0\DataAccess.dll
+F:\Programming\Projects\SomethingStupid\SomethingStupid\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.AssemblyInfoInputs.cache
+F:\Programming\Projects\SomethingStupid\SomethingStupid\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.AssemblyInfo.cs
+F:\Programming\Projects\SomethingStupid\SomethingStupid\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.csprojAssemblyReference.cache
